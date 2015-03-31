@@ -1,0 +1,3 @@
+[submodule "sankey"]
+	path = sankey
+	url = https://github.com/wiggzz/sankey
