@@ -5,7 +5,7 @@ title: Will James
 # Will James
 jameswt@gmail.com – 1 832 338 3976 – 1703 Summit View Apt A, Austin, TX 78703
 ## SUMMARY
-I want to solve hard problems that will improve people’s lives. While consulting has been great for learning (and I have learned a ton), I now want to bring my engineering skills to bear on more challenging problems and have more ownership in the outcome. I’m incredibly interested in Serverless computing, Crypto-technology such as block-chain, and machine learning. If there are hard problems, where solutions will have lasting impact, I’m interested.
+I want to solve hard problems that will improve people’s lives. While consulting has been great for learning (and I have learned a ton), I want to bring my engineering skills to bear on more challenging problems and have more ownership in the outcome. I’m incredibly interested in Serverless computing, Crypto-technology such as block-chain, and machine learning. If there are hard problems, where solutions will have lasting impact, I’m interested.
 ## EXPERIENCE
 ### Senior Consultant, **ThoughtWorks**
 Melbourne, Australia / Austin, TX *Feb 2015 to Present*
