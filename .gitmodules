@@ -1,6 +1,0 @@
-[submodule "sankey"]
-	path = sankey
-	url = https://github.com/wiggzz/sankey
-[submodule "wedding"]
-	path = wedding
-	url = https://github.com/wiggzz/wedding
