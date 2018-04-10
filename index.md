@@ -3,6 +3,7 @@ title: Will James
 ---
 
 # Will James
+theme: {{ site.theme }}
 email@email.com – 1 XXX XXX XXXX – Address, Austin, TX.
 ## SUMMARY
 I want to solve hard problems that will improve people’s lives. While consulting has been great for learning (and I have learned a ton), I want to bring my engineering skills to bear on more challenging problems and have more ownership in the outcome. I’m incredibly interested in Serverless computing, Crypto-technology such as block-chain, and machine learning. If there are hard problems, where solutions will have lasting impact, I’m interested.
