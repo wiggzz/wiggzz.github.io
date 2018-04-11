@@ -2,6 +2,8 @@
 title: Will James
 ---
 
+<div class="profile"><img srcset="/images/will-bw-square-small.jpeg 6x"></div>
+
 # Will James &nbsp;&nbsp; <a href="https://www.linkedin.com/in/wtjames"><i class="fab fa-linkedin fa-sm"></i></a> <a href="https://github.com/wiggzz"><i class="fab fa-github fa-sm"></i></a> <a href="https://twitter.com/wiggzz"><i class="fab fa-twitter fa-sm"></i></a>
 
 ## SUMMARY

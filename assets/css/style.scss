@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (min-width: 700px) {
+    div.profile {
+        display: block;
+        float: right;
+        padding-left: 2em;
+        padding-bottom: 2em;
+        background: white;
+    }
+}
