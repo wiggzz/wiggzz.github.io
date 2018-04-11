@@ -5,7 +5,7 @@ title: Will James
 # Will James &nbsp;&nbsp; <a href="https://www.linkedin.com/in/wtjames"><i class="fab fa-linkedin fa-sm"></i></a> <a href="https://github.com/wiggzz"><i class="fab fa-github fa-sm"></i></a> <a href="https://twitter.com/wiggzz"><i class="fab fa-twitter fa-sm"></i></a>
 
 ## SUMMARY
-I want to solve hard problems that will improve people’s lives. While consulting has been great for learning (and I have learned a ton since starting at ThoughtWorks), I want to bring my engineering skills to bear on more challenging problems and have more ownership in the outcome. I’m incredibly interested in Serverless computing, Crypto-technology such as blockchain, automation and machine learning. If there are hard problems, where solutions will have lasting impact, I’m interested.
+I want to solve hard problems that will improve people’s lives. While consulting has been great for learning (and I have learned a ton since starting at ThoughtWorks), I want to bring my engineering skills to bear on more challenging problems and have more ownership in the outcome. I’m incredibly interested in deep learning, serverless computing, crypto-technology such as blockchain, and automation. If there are hard problems, where solutions will have lasting impact, I’m interested.
 ## EXPERIENCE
 ### Senior Developer Consultant, **ThoughtWorks**
 Melbourne, Australia / Austin, TX *Feb 2015 to Present*
