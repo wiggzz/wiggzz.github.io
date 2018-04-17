@@ -8,18 +8,20 @@ title: Will James
 
 ## SUMMARY
 I want to solve hard problems that will improve people’s lives. While consulting has been great for learning (and I have learned a ton since starting at ThoughtWorks), I want to bring my engineering skills to bear on more challenging problems and have more ownership in the outcome. I’m incredibly interested in deep learning, serverless computing, crypto-technology such as blockchain, and automation. If there are hard problems, where solutions will have lasting impact, I’m interested.
+
 ## EXPERIENCE
 ### Senior Developer Consultant, **ThoughtWorks**
 Melbourne, Australia / Austin, TX *Feb 2015 to Present*
-*	Authored code across front and back end systems with multiple languages and technologies.
-*	Leveraged cloud technologies to bring scalable solutions to production rapidly.
-*	Successfully delivered multiple high value software projects on time and on-budget as a part of cross-functional agile development teams focusing on customer value.
+*	Authored code across front and back end systems with multiple languages and technologies including iOS, Android, React, ES6, Java Spring Boot and others.
+*	Leveraged cloud technologies such as AWS Lambda, CloudFormation and DynamoDB to bring scalable solutions to production rapidly.
+*	Successfully delivered multiple software projects on time and on-budget as a part of cross-functional agile development teams focusing on customer value.
 *	Facilitated architectural decisions for clients weighing short term value gains with long term maintainability and scalability.
+*	Delivered a data strategy to CIO of large Australian retailer ($5.2 bil revenue per year) as part of three person team working with business SMEs.
 *	Continuously learning and improving, and helping others learn and improve.
-*	Developed mobile applications for iOS leading teams of developers and running workshops on iOS development for clients.
+*	Lead teams of developers in the mobile space, running workshops on iOS development for clients.
 *	Worked closely with user researchers and designers to deliver rich experiences with quality, tested code that anticipated customer desires and drove business value for clients.
-*	Managed stakeholder expectations by communicating technical problems in plain English and offering suggestions on simpler solutions.
-*	Improved developer work flow and productivity by setting up continuous integration and deployment pipelines that repeatably test and deploy production ready code.
+*	Managed stakeholder expectations by communicating technical problems in plain English.
+*	Improved developer work flow and productivity by setting up continuous integration and deployment pipelines on Jenkins that repeatably test and deploy production ready code.
 
 ### Core Developer, **Storj Labs**
 [https://storj.io](https://storj.io) *May 2014 to Feb 2015*
@@ -56,14 +58,14 @@ Atlanta, GA *August 2009 to August 2011*
 
 Master of Science in Mechanical Engineering with a minor in Computational Science and Engineering, GPR 4.0 out of 4.0
 
-### BS, Mechanical Engineering **Texas A&M University**
+### BS, Mechanical Engineering, **Texas A&M University**
 College Station, TX *August 2004 to May 2008*
 
 Bachelor of Science in Mechanical Engineering with Honors (Cum Laude)
 
 ## SKILLS
 ### Programming Languages
-Javascript (ES6), Swift, Python, C, C++, C#, Matlab, Objective-C, Java, R
+Javascript (ES6), Swift, Python, C, C++, C#, Objective-C, Java, R
 
 ### Frameworks and Tools
 Git, Docker, AWS (ECS, EC2, Lambda, CloudFormation, Kinesis, S3, Route53, CloudFront), Spring Boot, Google Cloud (Firebase, Google Cloud Functions), React, Redux, Webpack, Jenkins, Go, Lambci, Matlab
